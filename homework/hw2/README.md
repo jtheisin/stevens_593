@@ -1,4 +1,4 @@
-To run hw2.py, simply download the .py file and store it in a location that has python. 
+To run hw2_jtheisin.py, simply download the .py file and store it in a location that has python. 
 After that, open up a terminal (I use AnacondaPrompt) and navigate to the location where
 you stored the file. 
 
